@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,400;1,600&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Montserrat+Alternates:ital,wght@1,400;1,600&family=Rock+Salt&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Josefin+Sans:ital,wght@0,100;1,300&family=Montserrat+Alternates:ital,wght@1,400;1,600&family=Rock+Salt&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Indie+Flower&family=Josefin+Sans:ital,wght@0,100;1,300&family=Montserrat+Alternates:ital,wght@1,400;1,600&family=Rock+Salt&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Arapey&display=swap");
+
+.brand {
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+.headerMoto {
+  font-family: "Indie Flower", cursive;
+  color: white;
+  font-size: 4vh;
+}
+
+.motoPara {
+  font-family: "Josefin Sans", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 7vh;
+}
+
+.startPara {
+  font-family: "Architects Daughter", cursive;
+  font-size: 50px;
+}
+
+.start {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+}
+
+.readerSection {
+  font-family: "Playfair Display", serif;
+}
+
+.readerPara {
+  font-family: "Roboto", sans-serif;
+  font-size: 23px;
+}
+
+.writerName {
+  font-family: "Lobster", cursive;
+}
